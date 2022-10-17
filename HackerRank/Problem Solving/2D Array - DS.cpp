@@ -12,7 +12,7 @@ vector<string> split(const string &);
  * The function is expected to return an INTEGER.
  * The function accepts 2D_INTEGER_ARRAY arr as parameter.
  */
-
+//function code
 int hourglassSum(vector<vector<int>> arr) {
     vector<int> v;
     for(int i=0;i<4;i++){
